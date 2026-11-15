@@ -1,0 +1,15 @@
+{
+  "name": "omni-harness",
+  "version": "1.0.0",
+  "description": "OmniRoute + Codex CLI harness — Lovekesh Anand <lovekeshanand6@gmail.com>",
+  "type": "module",
+  "bin": {
+    "omni-harness": "omni-harness.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["omniroute", "codex", "cli", "harness"],
+  "author": "Lovekesh Anand <lovekeshanand6@gmail.com>",
+  "license": "MIT"
+}

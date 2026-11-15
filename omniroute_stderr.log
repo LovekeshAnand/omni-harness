@@ -1,0 +1,3 @@
+  [33m⚠ STORAGE_ENCRYPTION_KEY in D:\claude-toolkit\npm-global\node_modules\omniroute\.env is ignored, C:\Users\ZBook\.omniroute\.env set it first[0m
+[33m  ⚠  SECURITY: listening on 0.0.0.0 with NO API-key requirement — the inference plane (/v1/*) is reachable by ANY device that can route to this host, and requests are billed to your configured providers. This local-first default is intentional, but on an untrusted network either set REQUIRE_API_KEY=true or bind loopback with OMNIROUTE_SERVER_HOST=127.0.0.1.[0m
+
